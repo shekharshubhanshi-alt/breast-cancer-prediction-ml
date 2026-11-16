@@ -1,0 +1,31 @@
+,importance
+worst perimeter,0.1331
+worst area,0.1281
+worst concave points,0.1081
+mean concave points,0.0944
+worst radius,0.0906
+mean radius,0.0587
+mean perimeter,0.0552
+mean area,0.0499
+mean concavity,0.0462
+worst concavity,0.0354
+area error,0.0344
+mean compactness,0.0181
+worst texture,0.0179
+worst compactness,0.0145
+mean texture,0.0143
+worst smoothness,0.014
+radius error,0.0135
+worst symmetry,0.0096
+perimeter error,0.0081
+concavity error,0.0071
+worst fractal dimension,0.0064
+mean smoothness,0.0062
+texture error,0.0054
+mean symmetry,0.005
+compactness error,0.0046
+symmetry error,0.0046
+mean fractal dimension,0.0045
+fractal dimension error,0.0044
+smoothness error,0.0041
+concave points error,0.0037
